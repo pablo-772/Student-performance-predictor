@@ -140,5 +140,5 @@ streamlit
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+**Emmanuel MUlonda**  
+[GitHub](https://github.com/pablo-772) • [LinkedIn](https://linkedin.com/in/your-profile)
